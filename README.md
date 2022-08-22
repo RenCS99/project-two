@@ -1,14 +1,14 @@
 ### bootstrap-boilerplate
 
-20220818T012100
+2022/08/22 T 02:10:00
 Author: Rene Cueva Salas
 
 # Project Title
-Bootstrap Boilerplate
+E-Commerce Website
 
 ### Description
 ---
-This is challenge 6 of week 5 of the Bitwise Web Development Program
+This is project 2 for the Bitwise Web Development Program. It is a website design for an e-commerce business.
 
 ### Prerequesites
 ---
